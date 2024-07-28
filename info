@@ -1,0 +1,8 @@
+npm i express ejs
+npm i socket.io
+
+package.json > "main": "app.js",
+
+npx nodemon app.js  > y
+
+To Run : npx nodemon app.js
